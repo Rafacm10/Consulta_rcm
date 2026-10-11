@@ -1,0 +1,220 @@
+[
+ {
+  "name": "Otakuya",
+  "type": "shopify",
+  "url": "https://tcg.otakuya.es"
+ },
+ {
+  "name": "The Booster Box",
+  "type": "shopify",
+  "url": "https://theboosterbox.es"
+ },
+ {
+  "name": "Canarypop",
+  "type": "shopify",
+  "url": "https://canarypop.es"
+ },
+ {
+  "name": "Zatu",
+  "type": "shopify",
+  "url": "https://zatu.com",
+  "paths": [
+   "/collections/pokemon-tcg/products.json",
+   "/collections/pokemon/products.json",
+   "/products.json"
+  ],
+  "maxPages": 25
+ },
+ {
+  "name": "1001 TCG",
+  "type": "shopify",
+  "url": "https://1001tcg.com"
+ },
+ {
+  "name": "La Nave TCG",
+  "type": "shopify",
+  "url": "https://lanavetcg.com"
+ },
+ {
+  "name": "All In TCG",
+  "type": "shopify",
+  "url": "https://allintcg.com"
+ },
+ {
+  "name": "Sunny Store",
+  "type": "shopify",
+  "url": "https://sunnystore.es"
+ },
+ {
+  "name": "CardZone",
+  "type": "shopify",
+  "url": "https://cardzone.es"
+ },
+ {
+  "name": "JJCollection",
+  "type": "shopify",
+  "url": "https://www.jjcollection.es"
+ },
+ {
+  "name": "Iberian Collect",
+  "type": "shopify",
+  "url": "https://iberiancollect.com"
+ },
+ {
+  "name": "TCG Level",
+  "type": "shopify",
+  "url": "https://tcglevel.com"
+ },
+ {
+  "name": "PokeDeal TCG",
+  "type": "shopify",
+  "url": "https://www.pokedealtcg.es"
+ },
+ {
+  "name": "Elite Store TCG",
+  "type": "shopify",
+  "url": "https://elitestoretcg.com"
+ },
+ {
+  "name": "Pokemillon",
+  "type": "shopify",
+  "url": "https://www.pokemillon.com"
+ },
+ {
+  "name": "BattleDeck",
+  "type": "shopify",
+  "url": "https://www.battledeck.es"
+ },
+ {
+  "name": "Metamorph Center",
+  "type": "shopify",
+  "url": "https://metamorphcenter.com"
+ },
+ {
+  "name": "SurCollect",
+  "type": "shopify",
+  "url": "https://surcollect.com"
+ },
+ {
+  "name": "La Bóveda Friki",
+  "type": "shopify",
+  "url": "https://labovedafriki.es"
+ },
+ {
+  "name": "Cards Hunters",
+  "type": "shopify",
+  "url": "https://cardshunters.es"
+ },
+ {
+  "name": "PokedexCards",
+  "type": "shopify",
+  "url": "https://www.pokedexcards.com"
+ },
+ {
+  "name": "TodoHits",
+  "type": "shopify",
+  "url": "https://todohits.com"
+ },
+ {
+  "name": "Golden Pulls",
+  "type": "shopify",
+  "url": "https://goldenpullscards.com"
+ },
+ {
+  "name": "Factory Cards TCG",
+  "type": "shopify",
+  "url": "https://factorycardstcg.com"
+ },
+ {
+  "name": "Wini Games",
+  "type": "shopify",
+  "url": "https://www.winigames.es"
+ },
+ {
+  "name": "Pop Paradise",
+  "type": "woo",
+  "url": "https://www.popparadise.es"
+ },
+ {
+  "name": "The Poke Shop",
+  "type": "woo",
+  "url": "https://thepoke.shop"
+ },
+ {
+  "name": "Reino de Cartas",
+  "type": "woo",
+  "url": "https://reinodecartas.com"
+ },
+ {
+  "name": "ShinyHit",
+  "type": "woo",
+  "url": "https://shinyhit.com"
+ },
+ {
+  "name": "Hero Freaks",
+  "type": "woo",
+  "url": "https://herofreaks.com"
+ },
+ {
+  "name": "Graciano Cards",
+  "type": "woo",
+  "url": "https://gracianocards.com"
+ },
+ {
+  "name": "Epic Hit Store",
+  "type": "woo",
+  "url": "https://epichitstore.es"
+ },
+ {
+  "name": "Chewe Center",
+  "type": "woo",
+  "url": "https://chewecenter.com"
+ },
+ {
+  "name": "Mundo Distorsión",
+  "type": "woo",
+  "url": "https://mundodistorsion.es"
+ },
+ {
+  "name": "Odissey Games",
+  "type": "woo",
+  "url": "https://odisseygames.com"
+ },
+ {
+  "name": "Holoplaza TCG",
+  "type": "woo",
+  "url": "https://holoplazatcg.com"
+ },
+ {
+  "name": "Flash Store",
+  "type": "woo",
+  "url": "https://flashstore.es"
+ },
+ {
+  "name": "Checollect",
+  "type": "woo",
+  "url": "https://checollect.es"
+ },
+ {
+  "name": "Dynos",
+  "type": "auto",
+  "url": "https://www.dynos.es",
+  "listing": "https://www.dynos.es/cartas-coleccionables"
+ },
+ {
+  "name": "Carrefour",
+  "type": "search",
+  "url": "https://www.carrefour.es/?q={q}"
+ },
+ {
+  "name": "El Corte Inglés",
+  "type": "search",
+  "url": "https://www.elcorteingles.es/search-nwx/1/?s={q}&stype=text_box"
+ },
+ {
+  "name": "Amazon",
+  "type": "search",
+  "url": "https://www.amazon.es/s?k={q}",
+  "note": "En Amazon solo cuenta como stock si sale 'Añadir a la cesta'. Si pone 'Solicitar invitación' o 'Pendiente de invitación', no."
+ }
+]
