@@ -5,7 +5,7 @@ import path from 'node:path';
 import { classify, clusterItems, norm, decodeEntities, COLLECTIONS, EXTRA_COLLECTIONS, TYPE_LABELS, LANG_LABELS } from './classify.mjs';
 
 const UA = 'Mozilla/5.0 (compatible; PokeStock/2.0; uso personal)';
-const OUT = process.env.OUT || '_site/data/stock.json';
+const OUT = process.env.OUT || 'data/stock.json';
 const STORES_FILE = process.env.STORES_FILE || 'stores.json';
 const EXTRAS_FILE = process.env.EXTRAS_FILE || 'extras.json';
 const PREV_URL = process.env.PREV_URL || '';
