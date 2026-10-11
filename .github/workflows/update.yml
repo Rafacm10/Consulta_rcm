@@ -1,22 +1,31 @@
+
 name: Actualizar stock
-on:
+
+'on':
   schedule:
-    - cron: '*/30 * * * *'   # cada 30 min (GitHub puede retrasarlo unos minutos)
-  workflow_dispatch:          # botón "Run workflow" para actualizar a mano
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
 permissions:
   contents: write
+
 concurrency:
   group: update-stock
   cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/check.mjs
+
+      - name: Actualizar datos
+        run: node scripts/check.mjs
+
       - name: Guardar cambios
         run: |
           git config user.name "stock-bot"
