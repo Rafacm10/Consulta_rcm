@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-11-16T13:01:45.676Z",
+ "updatedAt": "2026-11-16T22:58:39.923Z",
  "items": [
   {
    "producto": "Colección con Póster",
    "idioma": "ES",
    "tienda": "Otakuya",
    "url": "https://tcg.otakuya.es/products/pokemon-tcg-30th-poster-collection-espanol?variant=64036851548537",
-   "status": "out",
+   "status": "in_stock",
    "price": 37.99,
-   "checkedAt": "2026-11-16T13:01:06.543Z"
+   "checkedAt": "2026-11-16T22:57:56.688Z"
   },
   {
    "producto": "Colección con Póster",
@@ -17,7 +17,7 @@
    "url": "https://thepoke.shop/comprar/30-aniversario-poster-collection-pokemon/",
    "status": "in_stock",
    "price": 39.95,
-   "checkedAt": "2026-11-16T13:01:07.357Z"
+   "checkedAt": "2026-11-16T22:57:57.640Z"
   },
   {
    "producto": "Colección con Póster",
@@ -26,7 +26,7 @@
    "url": "https://sunnystore.es/products/poster-collection-30th-celebraciones-espanol?variant=56913364517250",
    "status": "out",
    "price": 34.9,
-   "checkedAt": "2026-11-16T13:01:08.608Z"
+   "checkedAt": "2026-11-16T22:57:58.731Z"
   },
   {
    "producto": "Colección con Póster",
@@ -35,7 +35,7 @@
    "url": "https://elitestoretcg.com/products/celebraciones-30th-poster-collection-espanol?variant=54184372502856",
    "status": "in_stock",
    "price": 35.95,
-   "checkedAt": "2026-11-16T13:01:09.262Z"
+   "checkedAt": "2026-11-16T22:57:59.415Z"
   },
   {
    "producto": "Colección con Póster",
@@ -44,16 +44,16 @@
    "url": "https://lanavetcg.com/products/reserva-colecion-con-poster-celebracion-30-aniversario-espanol?variant=57432537432439",
    "status": "unknown",
    "price": null,
-   "checkedAt": "2026-11-16T13:01:10.051Z"
+   "checkedAt": "2026-11-16T22:58:00.201Z"
   },
   {
    "producto": "Caja ex (Sylveon / Greninja)",
    "idioma": "ES",
    "tienda": "Otakuya",
    "url": "https://tcg.otakuya.es/products/pokemon-tcg-30th-ex-box-espanol?variant=64036829757817",
-   "status": "out",
+   "status": "in_stock",
    "price": 44.99,
-   "checkedAt": "2026-11-16T13:01:11.310Z"
+   "checkedAt": "2026-11-16T22:58:01.648Z"
   },
   {
    "producto": "Caja ex (Sylveon / Greninja)",
@@ -62,7 +62,7 @@
    "url": "https://reinodecartas.com/tienda-tcg/pokemon-tcg/30-aniversario/pokemon-tcg-celebracion-30-o-aniversario-pokemon-ex-box-sylveon-greninja-espanol/",
    "status": "out",
    "price": 44.99,
-   "checkedAt": "2026-11-16T13:01:11.956Z"
+   "checkedAt": "2026-11-16T22:58:02.286Z"
   },
   {
    "producto": "Caja ex (Sylveon / Greninja)",
@@ -71,7 +71,7 @@
    "url": "https://lanavetcg.com/products/reserva-coleccion-sylveon-ex-celebracion-30-aniversario-espanol?variant=57432555880823",
    "status": "unknown",
    "price": null,
-   "checkedAt": "2026-11-16T13:01:13.501Z"
+   "checkedAt": "2026-11-16T22:58:05.469Z"
   },
   {
    "producto": "Caja ex (Sylveon / Greninja)",
@@ -80,16 +80,16 @@
    "url": "https://sunnystore.es/products/ex-box-30th-celebraciones-espanol?variant=56913298817410",
    "status": "out",
    "price": 38.9,
-   "checkedAt": "2026-11-16T13:01:14.382Z"
+   "checkedAt": "2026-11-16T22:58:06.874Z"
   },
   {
    "producto": "Carpeta / Álbum Binder",
    "idioma": "ES",
    "tienda": "Otakuya",
    "url": "https://tcg.otakuya.es/products/pokemon-tcg-30th-binder-collection-espanol?variant=64036829036921",
-   "status": "out",
-   "price": 74.99,
-   "checkedAt": "2026-11-16T13:01:15.016Z"
+   "status": "in_stock",
+   "price": 69.99,
+   "checkedAt": "2026-11-16T22:58:07.494Z"
   },
   {
    "producto": "Carpeta / Álbum Binder",
@@ -98,7 +98,7 @@
    "url": "https://lanavetcg.com/products/reserva-album-30-aniversario-espanol?variant=57486481457527",
    "status": "out",
    "price": 59.9,
-   "checkedAt": "2026-11-16T13:01:15.642Z"
+   "checkedAt": "2026-11-16T22:58:08.216Z"
   },
   {
    "producto": "Carpeta / Álbum Binder",
@@ -107,7 +107,7 @@
    "url": "https://cardzone.es/products/caja-binder-celebracion-30-aniversario-espanol?variant=58609271734616",
    "status": "out",
    "price": 64.95,
-   "checkedAt": "2026-11-16T13:01:16.226Z"
+   "checkedAt": "2026-11-16T22:58:08.825Z"
   },
   {
    "producto": "Caja de Entrenador Élite (ETB)",
@@ -116,7 +116,7 @@
    "url": "https://sunnystore.es/products/etb-pokemon-3oth-celebraciones-elite-trainer-box-espanol?variant=56913275322754",
    "status": "out",
    "price": 84.9,
-   "checkedAt": "2026-11-16T13:01:17.059Z"
+   "checkedAt": "2026-11-16T22:58:09.664Z"
   },
   {
    "producto": "Caja de Entrenador Élite (ETB)",
@@ -124,8 +124,8 @@
    "tienda": "Canarypop",
    "url": "https://canarypop.es/products/pre-venta-caja-de-entrenador-elite-celebracion-30th-espanol?variant=54047287443803",
    "status": "out",
-   "price": 68,
-   "checkedAt": "2026-11-16T13:01:17.631Z"
+   "price": 79,
+   "checkedAt": "2026-11-16T22:58:10.262Z"
   },
   {
    "producto": "Caja de Entrenador Élite (ETB)",
@@ -134,7 +134,7 @@
    "url": "https://metamorphcenter.com/products/danada-etb-celebracion-30-aniversario-espanol?variant=55468455559510",
    "status": "out",
    "price": 63.95,
-   "checkedAt": "2026-11-16T13:01:18.500Z"
+   "checkedAt": "2026-11-16T22:58:11.306Z"
   },
   {
    "producto": "Caja de Entrenador Élite (ETB)",
@@ -143,9 +143,9 @@
    "url": "https://checollect.es/producto/caja-de-entrenador-elite-etb-celebracion-30o-aniversario-espanol/",
    "status": "error",
    "price": 59.9,
-   "lastStatus": "out",
+   "lastStatus": null,
    "error": "HTTP 404",
-   "checkedAt": "2026-11-16T13:01:19.154Z"
+   "checkedAt": "2026-11-16T22:58:12.037Z"
   },
   {
    "producto": "Caja de Entrenador Élite (ETB)",
@@ -156,7 +156,7 @@
    "price": null,
    "lastStatus": null,
    "error": "HTTP 451",
-   "checkedAt": "2026-11-16T13:01:20.034Z"
+   "checkedAt": "2026-11-16T22:58:12.844Z"
   },
   {
    "producto": "Caja de Entrenador Élite (ETB)",
@@ -165,16 +165,16 @@
    "url": "https://1001tcg.com/products/etb-pokemon-30-aniversario-ingles?variant=58752932544843",
    "status": "in_stock",
    "price": 184.95,
-   "checkedAt": "2026-11-16T13:01:20.591Z"
+   "checkedAt": "2026-11-16T22:58:13.419Z"
   },
   {
    "producto": "Caja de Entrenador Élite (ETB)",
    "idioma": "EN",
    "tienda": "Zatu",
    "url": "https://zatu.com/products/pok-mon-tcg-30th-celebration-elite-trainer-box?variant=57057314341242",
-   "status": "in_stock",
-   "price": 144.36,
-   "checkedAt": "2026-11-16T13:01:21.496Z"
+   "status": "out",
+   "price": 144.26,
+   "checkedAt": "2026-11-16T22:58:14.242Z"
   },
   {
    "producto": "Minilata",
@@ -185,7 +185,7 @@
    "price": null,
    "lastStatus": null,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-16T13:01:23.171Z"
+   "checkedAt": "2026-11-16T22:58:16.521Z"
   },
   {
    "producto": "Minilata",
@@ -194,7 +194,7 @@
    "url": "https://cardzone.es/products/mini-lata-celebracion-30-aniversario-espanol?variant=58672130359640",
    "status": "out",
    "price": 22.95,
-   "checkedAt": "2026-11-16T13:01:23.755Z"
+   "checkedAt": "2026-11-16T22:58:17.162Z"
   },
   {
    "producto": "Minilata",
@@ -203,7 +203,7 @@
    "url": "https://thepoke.shop/comprar/mini-tin-celebracion-30-aniversario-pokemon-espanol/",
    "status": "out",
    "price": 26.99,
-   "checkedAt": "2026-11-16T13:01:24.352Z"
+   "checkedAt": "2026-11-16T22:58:18.011Z"
   },
   {
    "producto": "Minilata",
@@ -212,7 +212,7 @@
    "url": "https://www.padis-store.com/44695-2859-pokemon-30-aniversario-minilata-2-sobres-espanol.html",
    "status": "in_stock",
    "price": 27.99,
-   "checkedAt": "2026-11-16T13:01:25.814Z"
+   "checkedAt": "2026-11-16T22:58:19.449Z"
   },
   {
    "producto": "Minilata",
@@ -221,7 +221,7 @@
    "url": "https://tcg.otakuya.es/products/pokemon-tcg-30th-mini-tins-espanol-copia?variant=64821898838393",
    "status": "out",
    "price": 27.95,
-   "checkedAt": "2026-11-16T13:01:27.925Z"
+   "checkedAt": "2026-11-16T22:58:21.317Z"
   },
   {
    "producto": "Blíster 2 sobres",
@@ -230,7 +230,7 @@
    "url": "https://thepoke.shop/comprar/30-aniversario-blister-2-sobres-pokemon/",
    "status": "out",
    "price": 29.95,
-   "checkedAt": "2026-11-16T13:01:28.564Z"
+   "checkedAt": "2026-11-16T22:58:21.965Z"
   },
   {
    "producto": "Blíster 2 sobres",
@@ -239,7 +239,7 @@
    "url": "https://sunnystore.es/products/blister-2-sobres-30th-celebraciones-espanol?variant=56913367892354",
    "status": "out",
    "price": 18.9,
-   "checkedAt": "2026-11-16T13:01:30.034Z"
+   "checkedAt": "2026-11-16T22:58:23.429Z"
   },
   {
    "producto": "Blíster 2 sobres",
@@ -248,7 +248,7 @@
    "url": "https://elitestoretcg.com/products/celebraciones-30th-blister-2-pack-espanol?variant=54184378696008",
    "status": "in_stock",
    "price": 24.95,
-   "checkedAt": "2026-11-16T13:01:30.643Z"
+   "checkedAt": "2026-11-16T22:58:24.108Z"
   },
   {
    "producto": "Blíster 2 sobres",
@@ -257,7 +257,7 @@
    "url": "https://www.game.es/pack-blister-de-cartas-pokemon-30-aniversario-castellano-merchandising-266953",
    "status": "out",
    "price": 15.99,
-   "checkedAt": "2026-11-16T13:01:31.324Z"
+   "checkedAt": "2026-11-16T22:58:24.794Z"
   },
   {
    "producto": "Booster Bundle (6 sobres)",
@@ -266,7 +266,7 @@
    "url": "https://www.padis-store.com/44697-pokemon-30-aniversario-bundle-6-sobres-espanol.html",
    "status": "in_stock",
    "price": 79.99,
-   "checkedAt": "2026-11-16T13:01:33.657Z"
+   "checkedAt": "2026-11-16T22:58:26.832Z"
   },
   {
    "producto": "Booster Bundle (6 sobres)",
@@ -275,7 +275,7 @@
    "url": "https://canarypop.es/products/booster-bundle-30th-celebracion-espanol?variant=54284320571739",
    "status": "out",
    "price": 45,
-   "checkedAt": "2026-11-16T13:01:35.939Z"
+   "checkedAt": "2026-11-16T22:58:28.637Z"
   },
   {
    "producto": "Booster Bundle (6 sobres)",
@@ -284,7 +284,7 @@
    "url": "https://lanavetcg.com/products/reserva-booster-bundle-30-aniversario?variant=57486362345847",
    "status": "out",
    "price": 42.9,
-   "checkedAt": "2026-11-16T13:01:36.736Z"
+   "checkedAt": "2026-11-16T22:58:29.574Z"
   },
   {
    "producto": "Booster Bundle (6 sobres)",
@@ -293,18 +293,20 @@
    "url": "https://checollect.es/producto/booster-bundle-6-sobres-celebracion-30o-aniversario-espanol/",
    "status": "error",
    "price": 38.9,
-   "lastStatus": "out",
+   "lastStatus": null,
    "error": "HTTP 404",
-   "checkedAt": "2026-11-16T13:01:37.335Z"
+   "checkedAt": "2026-11-16T22:58:30.468Z"
   },
   {
    "producto": "Colección Ultra-Premium (Espeon)",
    "idioma": "ES",
    "tienda": "Checollect",
    "url": "https://checollect.es/producto/coleccion-ultra-premium-espeon-celebracion-30o-aniversario-espanol/",
-   "status": "out",
+   "status": "error",
    "price": 209.9,
-   "checkedAt": "2026-11-16T13:01:38.145Z"
+   "lastStatus": "out",
+   "error": "HTTP 404",
+   "checkedAt": "2026-11-16T22:58:31.242Z"
   },
   {
    "producto": "Colección Ultra-Premium (Espeon)",
@@ -313,16 +315,16 @@
    "url": "https://thepoke.shop/comprar/30-aniversario-ultra-premium-collection-pokemon-tcg-espanol/",
    "status": "out",
    "price": 299,
-   "checkedAt": "2026-11-16T13:01:38.844Z"
+   "checkedAt": "2026-11-16T22:58:31.880Z"
   },
   {
    "producto": "Colección Ultra-Premium (Espeon)",
    "idioma": "ES",
    "tienda": "La Nave TCG",
    "url": "https://lanavetcg.com/products/upc-espeon-30-aniversario?variant=57515396071799",
-   "status": "out",
-   "price": 259.9,
-   "checkedAt": "2026-11-16T13:01:40.458Z"
+   "status": "unknown",
+   "price": null,
+   "checkedAt": "2026-11-16T22:58:33.384Z"
   },
   {
    "producto": "Colección con Figura (Mew)",
@@ -331,16 +333,16 @@
    "url": "https://reinodecartas.com/tienda-tcg/pokemon-tcg/30-aniversario/pokemon-tcg-celebracion-30-o-aniversario-figure-collection-mew-v1-espanol/",
    "status": "out",
    "price": 99.99,
-   "checkedAt": "2026-11-16T13:01:41.024Z"
+   "checkedAt": "2026-11-16T22:58:34.529Z"
   },
   {
    "producto": "Colección con Figura (Mew)",
    "idioma": "ES",
    "tienda": "La Nave TCG",
    "url": "https://lanavetcg.com/products/coleccion-mew-30-aniversario-espanol?variant=57515435753847",
-   "status": "out",
-   "price": 51.9,
-   "checkedAt": "2026-11-16T13:01:42.483Z"
+   "status": "unknown",
+   "price": null,
+   "checkedAt": "2026-11-16T22:58:35.854Z"
   },
   {
    "producto": "Mazo de Combate (Espeon / Umbreon)",
@@ -349,7 +351,7 @@
    "url": "https://tcg.otakuya.es/products/pokemon-tcg-30th-battle-deck-espanol?variant=64037416305017",
    "status": "out",
    "price": 46.95,
-   "checkedAt": "2026-11-16T13:01:43.046Z"
+   "checkedAt": "2026-11-16T22:58:36.748Z"
   },
   {
    "producto": "Mazo de Combate (Espeon / Umbreon)",
@@ -360,16 +362,16 @@
    "price": null,
    "lastStatus": null,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-16T13:01:43.736Z"
+   "checkedAt": "2026-11-16T22:58:37.469Z"
   },
   {
    "producto": "Colección Premium Ditto",
    "idioma": "ES",
    "tienda": "La Nave TCG",
    "url": "https://lanavetcg.com/products/coleccion-ditto-30-aniversario-espanol?variant=57515423629687",
-   "status": "out",
-   "price": 62.9,
-   "checkedAt": "2026-11-16T13:01:44.308Z"
+   "status": "unknown",
+   "price": null,
+   "checkedAt": "2026-11-16T22:58:38.298Z"
   },
   {
    "producto": "Colección Premium Ditto",
@@ -378,9 +380,9 @@
    "url": "https://checollect.es/producto/coleccion-premium-ditto-celebracion-30o-aniversario-espanol/",
    "status": "error",
    "price": 58.9,
-   "lastStatus": "out",
+   "lastStatus": null,
    "error": "HTTP 404",
-   "checkedAt": "2026-11-16T13:01:44.868Z"
+   "checkedAt": "2026-11-16T22:58:39.160Z"
   }
  ]
 }
